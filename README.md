@@ -1,3 +1,3 @@
 Customer-Support-Analysis
 
-NOTE: if code showing please download the data
+NOTE: if code not showing please download the data, would work.
